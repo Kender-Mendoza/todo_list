@@ -13,6 +13,7 @@
 - `rmv install 2.7.4` : Instalar version 2.7.4 de Ruby.
 - `rmv use 2.7.4` : Usar la version 2.7.4 de Ruby nueva.
 - `rmv list` : Verifica si se actualizo a la version de Ruby 2.7.4.
+- `git push -u origin aaron/feature_category --force` : Para mandar Aaron la rama master al repositorio remoto en Github de forma forzadas.
 
 ## Pasos de instalacion
 
@@ -28,3 +29,11 @@
 |-------------|--------|------------------------------|
 |    name     | string | 65 caracteres, debe ser unico|
 
+## Algunos comentarios
+
+- las validaciones se realizan desde la vista, el modelo y la base de datos
+- Ir a la migracion a validar, despues models.
+- Crear el controlador de categoria, creamos clase CategoriasController.
+- Forma de con una ruta acceder a ese INDEX.
+- Cuando se realiza una ruta, se reinicia al servidor para que corra bien,
+-
