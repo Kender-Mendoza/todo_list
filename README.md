@@ -18,6 +18,7 @@
 - `rmv use 2.7.4` : Usar la version 2.7.4 de Ruby nueva.
 - `rmv list` : Verifica si se actualizo a la version de Ruby 2.7.4.
 - `git push -u origin aaron/feature_category --force` : Para mandar Aaron la rama master al repositorio remoto en Github de forma forzadas.
+ - `git push git@github.com:Kender-Mendoza/todo_list.git aaron/feature_list ` : Guarda el commit nuevo en el repositorio con la rama aaron/featur..
 
 ## Pasos de instalacion
 
